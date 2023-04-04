@@ -1,3 +1,16 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
+<<<<<<< HEAD
+=======
+###############################################################################
+# Set default behavior for command prompt diff.
+#
+# This is need for earlier builds of msysgit that does not have it on by
+# default for csharp files.
+# Note: This is only used by command line
+###############################################################################
+#*.cs     diff=csharp
+
+###############################################################################
+>>>>>>> main
